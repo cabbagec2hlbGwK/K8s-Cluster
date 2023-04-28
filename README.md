@@ -15,3 +15,4 @@ to create a context in your local kubectl client
 `aws eks update-kubeconfig --name AWS-Eks-Cluster --region us-east-1`
 
 ---
+azure
