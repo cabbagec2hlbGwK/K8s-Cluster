@@ -53,3 +53,7 @@ variable "map_users" {
     },
   ]
 }
+variable "environment" {
+  default = "production"
+
+}
