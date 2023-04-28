@@ -1,0 +1,3 @@
+vscodeLaunch.cmd
+.terraform
+.terraform.lock.hcl
